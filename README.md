@@ -39,15 +39,7 @@ pyinstaller --noconsole --onefile keylogger.py
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
    
----  
 
-### 💬 To Reach Me  
-
- <a href='https://discord.com/users/718847515176206406' target="blank"> <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> <a href='https://twitter.com/debang5hu' target="blank"> <img align="center" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>  
-
-
-
-🚫 __Disclamer__: Don't use it to harm other's privacy  
 
 
 
